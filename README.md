@@ -23,4 +23,3 @@ Feel free to reach out for collaborations, ideas, or just a tech chat. I'm alway
 - **GitHub**: [[GitHub](https://github.com/arnvjshi)]
 - **Email**: [arnvjshi@gmail.com]
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/arnvjshi/langs)](https://githubtrends.io)
