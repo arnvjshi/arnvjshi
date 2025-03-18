@@ -1,23 +1,50 @@
-# Hi, I'm Arnav Joshi 👋
+# 👋 Hey, I'm Arnav Joshi
 
 🚀 **Tech Enthusiast | Developer | Problem Solver**  
-Passionate about coding, building impactful projects, and continuously learning new technologies. My focus areas include competitive coding, machine learning, web & app development, and cloud computing.
+Obsessed with building cool projects, solving real-world problems, and learning new tech every day. From competitive coding to cloud deployments, I love pushing boundaries and creating impact.
 
-## 🛠 Tech Stack
-- **Languages:** JavaScript, Python, C, Java, SQL
-- **Web Development:** Next.js, React, Node.js, Express, HTML, CSS
-- **Database:** MongoDB, Firebase, SQL
-- **Machine Learning:** TensorFlow, Hugging Face, OpenCV
-- **Cloud:** AWS, GCP
-- **Tools:** Git, GitHub, VS Code, Jupyter, Tiled
+---
 
-## 🔥 Current Focus
-- **Smart Shopping System** – Building an intelligent shopping experience using Next.js, MongoDB, and AWS.
-- **Competitive Coding** – Practicing DSA & problem-solving to stay sharp.
-- **Game Development** – Exploring JavaScript-based retro gaming.
+## 🛠 Tech Arsenal
 
-## 🤝 Let's Connect!
-- **LinkedIn:** [Arnav Joshi](https://www.linkedin.com/in/arnav-joshi-aj05/)
-- **GitHub:** [arnvjshi](https://github.com/arnvjshi)
-- **Email:** [arnvjshi@gmail.com]
-- **Instagram** [arnv_jshi](https://www.instagram.com/arnv_jshi)
+### 💻 Programming Languages
+```yaml
+JavaScript   ██████████ 90%
+Python       █████████ 85%
+C            ████████ 75%
+Java         ███████ 70%
+```
+
+### 🌐 Web & Backend
+```yaml
+Next.js      ██████████ 90%
+React        █████████ 85%
+Node.js      ████████ 80%
+MongoDB      ███████ 70%
+AWS          ███████ 65%
+```
+
+### 🤖 AI & ML
+```yaml
+TensorFlow   ███████ 70%
+Hugging Face ██████ 60%
+OpenCV       ██████ 60%
+```
+
+---
+
+## 🔥 What I'm Up To
+- 🛒 **Smart Shopping System** – Crafting an AI-driven shopping experience with Next.js, MongoDB & AWS.
+- 💻 **Competitive Coding** – Sharpening my problem-solving skills with DSA challenges.
+- 🎮 **Retro Game Dev** – Bringing pixel-perfect nostalgia to life with JavaScript.
+
+---
+
+## 🌐 Let's Connect
+🌍 **Website:** [arnavjoshi.vercel.app](https://arnavjoshi.vercel.app/)  
+💼 **LinkedIn:** [Arnav Joshi](https://www.linkedin.com/in/arnav-joshi-aj05/)  
+🐙 **GitHub:** [arnvjshi](https://github.com/arnvjshi)  
+📸 **Instagram:** [@arnv_jshi](https://instagram.com/arnv_jshi)  
+📧 **Email:** [arnvjshi@gmail.com]  
+
+🚀 *Always open to new opportunities, collaborations, and tech discussions!*
