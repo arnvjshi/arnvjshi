@@ -30,6 +30,9 @@ Obsessed with building cool projects, solving real-world problems, and learning 
 ## 🌐 Let's Connect  
 
 [![Website](https://img.shields.io/badge/-Website-222?style=for-the-badge&logo=vercel)](https://arnavjoshi.vercel.app/)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-joshi-aj05/)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/arnvjshi)  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arnv_jshi)  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnvjshi@gmail.com)  [![Resume](https://img.shields.io/badge/Resume-0072C6?style=for-the-badge&logo=googledocs&logoColor=white)](https://raw.githubusercontent.com/arnvjshi/arnvjshi/main/Resume.pdf)
+
 🚀 *Always open to new opportunities, collaborations, and tech discussions!*  
 
 ---
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnvjshi&" alt="arnvjshi" /></p>
