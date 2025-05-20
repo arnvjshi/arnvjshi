@@ -1,4 +1,3 @@
-
 # 👋 Hey, I'm Arnav Joshi  
 
 🚀 **Tech Enthusiast | Developer | Problem Solver**  
@@ -35,4 +34,4 @@ Obsessed with building cool projects, solving real-world problems, and learning 
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnvjshi" alt="arnvjshi" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=arnvjshi" alt="arnvjshi" /></p>
