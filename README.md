@@ -34,7 +34,7 @@
 A glimpse into the technologies I work with.
 
 <p align="center">
-    <a href="https://skillicons.dev">
+    <a href="#">
         <img src="https://skillicons.dev/icons?i=js,ts,python,c,java,assembly,nextjs,react,nodejs,express,flask,mongodb,postgres,firebase,graphql,aws,docker,pytorch,tensorflow,opencv,linux,vscode&perline=11" />
     </a>
 </p>
@@ -44,7 +44,7 @@ A glimpse into the technologies I work with.
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/arnvjshi">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=arnvjshi&show_icons=true&theme=dracula&line_height=27" alt="Arnav's GitHub Stats"/>
   </a>
   <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -98,7 +98,6 @@ Here are some of the projects I'm proud of.
 ***
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smiley%20Emojis/Winking%20Face.png" alt="Winking Face" width="35" height="35" />
   <i>Always open to new collaborations, opportunities, and deep-dive tech conversations!</i>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="35" height="35" />
 </p>
