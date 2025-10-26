@@ -1,37 +1,104 @@
-# 👋 Hey, I'm Arnav Joshi  
+<p align="center">
+  <a href="https://arnavjoshi.vercel.app/">
+    <img src="https://raw.githubusercontent.com/arnvjshi/arnvjshi/main/header.gif" width="100%">
+  </a>
+</p>
 
-🚀 **Tech Enthusiast | Developer | Problem Solver**  
-Obsessed with building cool projects, solving real-world problems, and learning new tech every day. From competitive coding to cloud deployments, I love pushing boundaries and creating impact.  
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Arnav+Joshi;Tech+Innovator+%7C+Developer+%7C+AI+Explorer" alt="Typing SVG" /></a>
+</h1>
 
----
+<p align="center">
+  Passionate about building smart, scalable solutions that blend creativity with impact. From system-level programming to AI-driven apps, I thrive on architecting technology, solving complex problems, and mastering new tools across the full stack.
+</p>
 
-## 🛠 Tech Arsenal  
+<p align="center">
+    <a href="https://arnavjoshi.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Website-222?style=for-the-badge&logo=vercel" alt="Website"/>
+    </a>
+    <a href="https://www.linkedin.com/in/arnav-joshi-aj05/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:arnvjshi@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://raw.githubusercontent.com/arnvjshi/arnvjshi/main/Resume.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/Resume-0072C6?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/>
+    </a>
+</p>
 
-#### 💻 Programming Languages  
-![JavaScript](https://img.shields.io/badge/JavaScript-90%25-yellow?style=flat-square)  ![Python](https://img.shields.io/badge/Python-85%25-blue?style=flat-square)  ![C](https://img.shields.io/badge/C-75%25-lightgrey?style=flat-square)  ![Java](https://img.shields.io/badge/Java-70%25-orange?style=flat-square)  ![TypeScript](https://img.shields.io/badge/TypeScript-80%25-blue?style=flat-square) ![Dart](https://img.shields.io/badge/Dart-70%25-0081CB?style=flat-square)  ![C#](https://img.shields.io/badge/C%23-75%25-239120?style=flat-square)  ![PHP](https://img.shields.io/badge/PHP-65%25-777BB4?style=flat-square)  
+***
 
-#### 🌐 Web & Backend  
-![Next.js](https://img.shields.io/badge/Next.js-90%25-black?style=flat-square)  ![React](https://img.shields.io/badge/React-85%25-blue?style=flat-square)  ![Node.js](https://img.shields.io/badge/Node.js-80%25-green?style=flat-square)  ![Express.js](https://img.shields.io/badge/Express.js-85%25-black?style=flat-square)  ![MongoDB](https://img.shields.io/badge/MongoDB-70%25-darkgreen?style=flat-square)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-75%25-blue?style=flat-square)  ![Firebase](https://img.shields.io/badge/Firebase-80%25-orange?style=flat-square)  ![GraphQL](https://img.shields.io/badge/GraphQL-70%25-pink?style=flat-square)  ![AWS](https://img.shields.io/badge/AWS-65%25-orange?style=flat-square)  ![Docker](https://img.shields.io/badge/Docker-75%25-blue?style=flat-square)  
+## 🚀 My Tech Stack & Tools
 
-#### 🤖 AI & ML  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-70%25-orange?style=flat-square)  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-60%25-yellow?style=flat-square)  ![OpenCV](https://img.shields.io/badge/OpenCV-60%25-blue?style=flat-square)  ![PyTorch](https://img.shields.io/badge/PyTorch-75%25-red?style=flat-square)  ![MLflow](https://img.shields.io/badge/MLflow-65%25-lightblue?style=flat-square)  ![Pandas](https://img.shields.io/badge/Pandas-80%25-blue?style=flat-square)  ![NumPy](https://img.shields.io/badge/NumPy-85%25-lightblue?style=flat-square)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-70%25-green?style=flat-square)  ![LangChain](https://img.shields.io/badge/LangChain-75%25-purple?style=flat-square)  ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-80%25-darkblue?style=flat-square)  ![Gemini API](https://img.shields.io/badge/Gemini%20API-75%25-blueviolet?style=flat-square)  
+A glimpse into the technologies I work with.
 
----
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,ts,python,c,java,assembly,nextjs,react,nodejs,express,flask,mongodb,postgres,firebase,graphql,aws,docker,pytorch,tensorflow,opencv,linux,vscode&perline=11" />
+    </a>
+</p>
 
-## 🔥 What I'm Up To  
-- 🛒 [**SmartCart**](https://github.com/arnvjshi/Smart-Shop) – Crafting an AI-driven shopping experience with Next.js, MongoDB & AWS.  
-- 💻 [**Competitive Coding**]() – Sharpening my problem-solving skills with DSA challenges.  
-- 🎮 [**Retro Game Dev**](https://github.com/arnvjshi/ColosseumGameDeployment) – Bringing pixel-perfect nostalgia to life with JavaScript.  
-- 🤖 [**EduBot**](https://github.com/arnvjshi/EduBot) – An AI-powered chatbot designed to assist students with learning resources, FAQs, and interactive tutoring. 
+***
 
----
+## 📊 My GitHub Stats
 
-## 🌐 Let's Connect  
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arnvjshi&show_icons=true&theme=dracula&line_height=27" alt="Arnav's GitHub Stats"/>
+  </a>
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnvjshi&layout=compact&theme=dracula" alt="Top Languages"/>
+  </a> -->
+</p>
 
-[![Website](https://img.shields.io/badge/-Website-222?style=for-the-badge&logo=vercel)](https://arnavjoshi.vercel.app/)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-joshi-aj05/)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/arnvjshi)  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/arnv_jshi)  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnvjshi@gmail.com)  [![Resume](https://img.shields.io/badge/Resume-0072C6?style=for-the-badge&logo=googledocs&logoColor=white)](https://raw.githubusercontent.com/arnvjshi/arnvjshi/main/Resume.pdf)
+<p align="center">
+    <a href="https://github.com/arnvjshi">
+    <img src="https://streak-stats.demolab.com/?user=arnvjshi&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
 
-🚀 *Always open to new opportunities, collaborations, and tech discussions!*  
+***
 
----
+## 🚧 Featured Projects
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=arnvjshi" alt="arnvjshi" /></p>
+Here are some of the projects I'm proud of.
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛰️ AI Threat Detection Suite</h3>
+      <p>An end-to-end intelligent threat detection system using YOLO, Vision-Language Models, Flask, and Next.js. Deployed on AWS with Docker for robust CCTV analytics and advanced ML integration.</p>
+      <p><b>Tech:</b> Python, PyTorch, Next.js, Flask, Docker, AWS</p>
+      <a href="https://github.com/arnvjshi/Threat-Detection-Dashboard">View Project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 SmartCart</h3>
+      <p>An AI-powered e-commerce platform offering a personalized shopping journey with real-time recommendations and a secure, scalable backend.</p>
+      <p><b>Tech:</b> Next.js, MongoDB, AWS</p>
+      <a href="https://github.com/arnvjshi/Smart-Shop">View Project →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 EduBot</h3>
+      <p>A student-tailored AI chatbot designed to deliver curated learning resources, answer FAQs, and provide personalized academic guidance.</p>
+      <p><b>Tech:</b> Python, LangChain, OpenAI API</p>
+      <a href="https://github.com/arnvjshi/EduBot">View Project →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 Colosseum Retro Game</h3>
+      <p>A classic pixel-art fighting game, reinspired and built from the ground up using JavaScript and Node.js for a nostalgic browser-based experience.</p>
+      <p><b>Tech:</b> JavaScript, Node.js</p>
+      <a href="https://github.com/arnvjshi/ColosseumGameDeployment">View Project →</a>
+    </td>
+  </tr>
+</table>
+
+***
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smiley%20Emojis/Winking%20Face.png" alt="Winking Face" width="35" height="35" />
+  <i>Always open to new collaborations, opportunities, and deep-dive tech conversations!</i>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="35" height="35" />
+</p>
