@@ -4,9 +4,9 @@
   </a>
 </p>
 
-<h1 align="center">
+<!-- <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Arnav+Joshi; %7C+Developer+%7C+AI+Explorer+%7C" />
-</h1>
+</h1> -->
 
 <p align="center">
   Passionate about building smart, scalable solutions that blend creativity with impact. From system-level programming to AI-driven apps, I thrive on architecting technology, solving complex problems, and mastering new tools across the full stack.
